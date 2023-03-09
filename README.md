@@ -15,8 +15,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Walkwithrahul/product-preview-card-component.git)
+
+- Live Site URL: [Add live site URL here](https://walkwithrahul-product-preview-card.netlify.app/)
 
 ## My process
 
