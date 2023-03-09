@@ -43,6 +43,6 @@ I will update more layout breakpoints in future.
 
 ## Author
 
-- Website - [Devendra singh Bhadoriya](https://www.your-site.com)
+- Website - [Devendra singh Bhadoriya](https://walkwithrahul-product-preview-card.netlify.app/)
 - Frontend Mentor - [@walkwithrahul](https://www.frontendmentor.io/profile/walkwithrahul)
 - Twitter - [@walkwithrahul](https://www.twitter.com/walkwithrahul)
