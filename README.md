@@ -15,9 +15,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Walkwithrahul/product-preview-card-component.git)
+- Solution URL: [Solution URL here](https://github.com/Walkwithrahul/product-preview-card-component.git)
 
-- Live Site URL: [Add live site URL here](https://walkwithrahul-product-preview-card.netlify.app/)
+- Live Site URL: [Live site URL here](https://walkwithrahul-product-preview-card.netlify.app/)
 
 ## My process
 
@@ -43,6 +43,6 @@ I will update more layout breakpoints in future.
 
 ## Author
 
-- Website - [Devendra singh Bhadoriya](https://walkwithrahul-product-preview-card.netlify.app/)
+- Website - [Click here](https://walkwithrahul-product-preview-card.netlify.app/)
 - Frontend Mentor - [@walkwithrahul](https://www.frontendmentor.io/profile/walkwithrahul)
 - Twitter - [@walkwithrahul](https://www.twitter.com/walkwithrahul)
